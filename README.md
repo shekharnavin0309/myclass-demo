@@ -1,2 +1,2 @@
-# This is myclass-demo project
+# This is myclass-demo
 myclass-demo
